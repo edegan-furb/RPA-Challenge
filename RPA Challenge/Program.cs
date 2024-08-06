@@ -34,7 +34,6 @@ namespace RPA_Challenge
         static void Main(string[] args)
         {
             string path = @"C:\challenge.xlsx";
-            Program p = new();
 
             if (!OperatingSystem.IsWindows())
             {
