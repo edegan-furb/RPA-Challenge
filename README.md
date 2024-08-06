@@ -11,4 +11,4 @@ The actual countdown of the challenge will begin once you click the Start button
 - [Visual Studio](https://visualstudio.microsoft.com/) - Integrated development environment (IDE) used for developing and debugging the application.
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - Primary programming language used for the application's logic and functionality.
 - [Selenium](https://www.selenium.dev/) - Web automation tool used for testing and interacting with web elements.
-- [OleDbConnection](https://learn.microsoft.com/en-us/dotnet/api/system.data.oledb.oledbconnection) - ADO.NET class used to connect and interact with databases using OLE DB.
+- [OleDb](https://learn.microsoft.com/en-us/dotnet/api/system.data.oledb?view=net-8.0) - Class for connecting to and interacting with databases using OLE DB.
